@@ -116,10 +116,46 @@ padding-left: 10px;
 display: inline-block;
 }
 
-.texto-destaque{
-    text-align: center;
+.conteudo{
+width: 100%;
+}
+.texto-destaque strong{
+color: #646464;
+}
+
+.texto-destaque h1{
+text-align: center;
+font-size: 30px;
+text-transform: uppercase;
+color:#000000 ;
+}
+
+.texto-destaque h2{
+padding: 20px;
+text-align: left;
+font-size: 20px;
+text-transform: uppercase;
+color:#000000 ;
 }
 
 .texto-destaque p {
-    color: #0400fffa;
+padding: 20px;
+margin-right: 50%;
+text-align: left;
+font-size: 20px;
+color: #3f3f3f;
+}
+.Terceiro-planeta{
+float: right;
+padding: 20px;
+left: 50%;
+margin-top: -78%;
+position:absolute;    
+}
+.linahs{
+float: right;
+padding: 20px;
+left: 50%;
+margin-top: -58%;
+position:absolute;
 }
