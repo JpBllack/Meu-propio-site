@@ -8,6 +8,7 @@ background-color: #252323;
 }
 
 main, .conteudo{
+
 margin: 0 auto;
 width: 980px;
 position: relative;
@@ -48,7 +49,7 @@ margin-left: 20px;
 height: 50px;
 }
 .menu ul li:hover{
-border-bottom: 2px solid #00bac6;
+border-bottom: 4px solid #00bac6;
 }
 .menu ul li a:hover{
 color:#00bac6;
@@ -118,16 +119,17 @@ display: inline-block;
 
 .conteudo{
 width: 100%;
+background-color: #000000;
 }
 .texto-destaque strong{
-color: #646464;
+color: #f3eded;
 }
 
 .texto-destaque h1{
 text-align: center;
 font-size: 30px;
 text-transform: uppercase;
-color:#000000 ;
+color:#f5f3f3 ;
 }
 
 .texto-destaque h2{
@@ -135,7 +137,7 @@ padding: 20px;
 text-align: left;
 font-size: 20px;
 text-transform: uppercase;
-color:#000000 ;
+color:#ffffff ;
 }
 
 .texto-destaque p {
@@ -143,19 +145,20 @@ padding: 20px;
 margin-right: 50%;
 text-align: left;
 font-size: 20px;
-color: #3f3f3f;
+color: #ffffff;
 }
 .Terceiro-planeta{
 float: right;
 padding: 20px;
 left: 50%;
-margin-top: -78%;
+margin-top: -265%;
 position:absolute;    
 }
-.linahs{
+.linhas{
 float: right;
 padding: 20px;
 left: 50%;
-margin-top: -58%;
-position:absolute;
+margin-top: -203%;
+margin-left: 40px;
+position: absolute;
 }
