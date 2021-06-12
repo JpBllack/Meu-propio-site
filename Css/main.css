@@ -1,4 +1,4 @@
-body{font-family: "Crimson Text", "Times New Roman", serif;
+body{font-family: "Arial", "Times New Roman", serif;
 background-color: #ffffff;
 }
 .menu-principal{
@@ -22,7 +22,7 @@ float: left;
 .redes-social ul li{
 margin-left: 10px;
 display: inline-block;
-float: left;
+float:left;
 }
 .redes-social {
 padding: 30px;
@@ -161,4 +161,29 @@ left: 50%;
 margin-top: -203%;
 margin-left: 40px;
 position: absolute;
+}
+.nucleo{
+float: right;
+padding: 20px;
+left: 50%;
+max-width: 271px;
+max-height: 300px;
+width: auto;
+height: auto;
+margin-top: -128%;
+margin-right: 20%;
+}
+.terra-camada{
+float: right;
+padding: 20px;
+left: 50%;
+margin-top: -70%;
+}
+.footer2{
+background-image: url(../img/footer2.png);
+color: #ffffff;
+height: 80px;
+}
+.footer2 p{
+    padding: 31px;
 }
