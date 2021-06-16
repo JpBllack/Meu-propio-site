@@ -213,12 +213,21 @@ margin-right: 8%;
 }
 .urano{
 float: right;
-max-width: 490px;
+max-width: 481px;
 padding: 20px;
 left: 50%;
-margin-top: -62%;
-margin-right: 8%;
-    }
+margin-top: -54%;
+margin-right: 7%;
+}
+
+.netuno{
+float: right;
+max-width: 327px;
+padding: 20px;
+left: 50%;
+margin-top: -26%;
+margin-right: 12%
+}
     
 .footer2{
 background-image: url(../img/footer2.png);
